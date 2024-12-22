@@ -15,9 +15,7 @@ A simple yet powerful calendar application with event management functionality b
 
 You can try out the live demo here:
 
-[Live Demo](https://your-live-demo-link.com)
-
-*Note: Replace the placeholder URL with the actual link to your live application.*
+[Live Demo](https://calendarease.netlify.app/)
 
 ## 🛠️ Technologies Used
 
