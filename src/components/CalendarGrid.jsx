@@ -11,6 +11,7 @@ const CalendarGrid = () => {
   const [isModalOpen, setIsModalOpen] = useState(false); // Manage modal visibility
   const { events } = useEventContext();
 
+  console.log(events)
   const days = generateCalendar(currentDate);
 
   const handleDateClick = (day) => {
